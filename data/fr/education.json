@@ -1,0 +1,22 @@
+[
+    {
+        "degreeName": "Ingénieur spécialisé en développement informatique",
+        "obtainingDate": "Obtention prévue en 2022",
+        "description": "4ème année à Cesi école d’ingénieurs en spécialité informatique",
+        "organization": {
+            "logoPath": "/img/cesi.png",
+            "name": "Cesi école d'ingénieurs",
+            "location": "Lille - France"
+        }
+    },
+    {
+        "degreeName": "Baccalauréat scientifique, sciences de l’ingénieur spécialité informatique et sciences du numérique",
+        "obtainingDate": "Obtenu en 2016",
+        "description": "",
+        "organization": {
+            "logoPath": "/img/ozanam.png",
+            "name": "Lycée Frédéric OZANAM",
+            "location": "Lille - France"
+        }
+    }
+]

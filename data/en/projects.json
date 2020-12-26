@@ -1,0 +1,14 @@
+[
+    {
+        "name": "My online CV",
+        "url": "https://luc-aucoin.github.io/my-curriculum-vitae/",
+        "gitHubRepository": "https://github.com/Luc-AUCOIN/curriculum-vitae--front/",
+        "gitLabRepository": "https://gitlab.com/Luc-AUCOIN/curriculum-vitae--front/"
+    },
+    {
+        "name": "Formation and quiz site dedicated to Scouts and Guides of France members",
+        "url": "https://formation.natureenvironnement.fr/",
+        "gitHubRepository": "https://github.com/Luc-AUCOIN/formation-natureenvironment--front/",
+        "gitLabRepository": "https://gitlab.com/Luc-AUCOIN/formation-natureenvironment--front/"
+    }
+]

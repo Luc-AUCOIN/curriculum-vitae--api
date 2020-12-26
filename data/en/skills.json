@@ -1,0 +1,86 @@
+{
+    "management": [
+        {
+            "name": "Team animation",
+            "usage": "Scouting",
+            "controlPercent": 85
+        },
+        {
+            "name": "Crisis management",
+            "usage": "Scouting",
+            "controlPercent": 95
+        },
+        {
+            "name": "Budget",
+            "usage": "Scouting",
+            "controlPercent": 90
+        },
+        {
+            "name": "Administrative follow",
+            "usage": "Scouting",
+            "controlPercent": 100
+        },
+        {
+            "name": "Communication",
+            "usage": "Internship, school and scouting",
+            "controlPercent": 90
+        }
+    ],
+    "technical": [
+        {
+            "name": "Hardware (Configuration et montage de PC)",
+            "usage": "Personal",
+            "controlPercent": 100
+        },
+        {
+            "name": "Spring Boot (Kotlin, Java EE)",
+            "usage": "Internship",
+            "controlPercent": 75
+        },
+        {
+            "name": "Angular (TypeScript, HTML 5, CSS 3)",
+            "usage": "Internship, school and scouting",
+            "controlPercent": 95
+        },
+        {
+            "name": "Symfony (PHP, HTML 5, CSS 3)",
+            "usage": "School and scouting",
+            "controlPercent": 70
+        },
+        {
+            "name": "Git (GitHub, GitLab)",
+            "usage": "Internship, school, scouting and personal",
+            "controlPercent": 95
+        },
+        {
+            "name": "Arduino (C)",
+            "usage": "School and personal",
+            "controlPercent": 65
+        },
+        {
+            "name": "Continious Integration / Continious Delivery (CI/CD)",
+            "usage": "Internship",
+            "controlPercent": 50
+        },
+        {
+            "name": "Consul",
+            "usage": "Internship",
+            "controlPercent": 70
+        },
+        {
+            "name": "Gradle (Kotlin, Java EE, Java SE)",
+            "usage": "Internship",
+            "controlPercent": 95
+        },
+        {
+            "name": "Maven (Java EE, Java SE)",
+            "usage": "Internship and school",
+            "controlPercent": 75
+        },
+        {
+            "name": "SQL (Merise, MySQL, PostgreSQL, etc.)",
+            "usage": "Internship, school, scouting and personal",
+            "controlPercent": 85
+        }
+    ]
+}

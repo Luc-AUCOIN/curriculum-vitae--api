@@ -1,0 +1,44 @@
+[
+    {
+        "duration": "Du 06/01/2020 au 10/04/2020",
+        "title": "Responsable de l'application web Vigiflux et développeur Full Stack (stage) :",
+        "descriptions": [
+            "Conception d'une application en adéquation avec les besoins du client",
+            "Rédaction des documentations nécessaire à sa réalisation et à sa maintenabilité (fonctionnelle et technique)",
+            "Développement d'un site web avec Java EE, Spring Boot, Gradle pour le backend et Angular pour le frontend",
+            "Mise en place des d'un système de configuration externalisée avec Consul",
+            "Migration d'API existantes vers Gradle",
+            "Optimisation d'une application web existante"
+        ],
+        "organization": {
+            "logoPath": "/img/leroy_merlin.png",
+            "name": "Leroy Merlin",
+            "location": "Villeneuve d'Ascq - France"
+        }
+    },
+    {
+        "duration": "Du 23/04/2019 au 28/06/2019",
+        "title": "Développeur web Full Stack (stage) :",
+        "descriptions": [
+            "Développement d’un outil en Java EE et Angular permettant le paramétrage d’alertes liées à la surveillance des flux Supply"
+        ],
+        "organization": {
+            "logoPath": "/img/leroy_merlin.png",
+            "name": "Leroy Merlin",
+            "location": "Villeneuve d'Ascq - France"
+        }
+    },
+    {
+        "duration": "Du 03/09/2018 au 26/10/2018",
+        "title": "Développeur logiciel (stage) :",
+        "descriptions": [
+            "Création d’un outil développé en Java permettant la recherche et l’export de donnée (informations sur des commandes)",
+        	"Rechercher les données grâce au développement d’un constructeur de requête SQL"
+        ],
+        "organization": {
+            "logoPath": "/img/cmi.jpg",
+            "name": "Call Management International (CMI)",
+            "location": "Roubaix - France"
+        }
+    }
+]

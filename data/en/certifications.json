@@ -1,0 +1,65 @@
+[
+    {
+        "title": "CCNA 2 - Routing and Switching Essentials",
+        "date": "Obtained in 04/2019 and expires in 04/2022",
+        "organization": {
+            "logoPath": "/img/cisco.png",
+            "name": "Cisco",
+            "location": ""
+        }
+    },
+    {
+        "title": "Brevet d'Aptitudes aux Fonctions d'Animateur - BAFA",
+        "date": "Obtained on 01/04/2019",
+        "organization": {
+            "logoPath": "/img/fr.png",
+            "name": "Direction Régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS)",
+            "location": ""
+        }
+    },
+    {
+        "title": "Certificat d'aptitude aux fonctions de directeur du Scoutisme Français",
+        "date": "Obtained on 03/18/2019",
+        "organization": {
+            "logoPath": "/img/sffr.png",
+            "name": "Fédération du Scoutisme Français",
+            "location": ""
+        }
+    },
+    {
+        "title": "CCNA 1 - Introduction to Networks",
+        "date": "Obtained in 01/2018 and expires in 01/2021",
+        "organization": {
+            "logoPath": "/img/cisco.png",
+            "name": "Cisco",
+            "location": ""
+        }
+    },
+    {
+        "title": "Certificat d'aptitudes aux fonctions d'animateur du Scoutisme Français",
+        "date": "Obtained on 11/21/2017",
+        "organization": {
+            "logoPath": "/img/sffr.png",
+            "name": "Fédération du Scoutisme Français",
+            "location": ""
+        }
+    },
+    {
+        "title": "Brevet d'Initiation à l'Aéronautique - BIA",
+        "date": "Obtained in 2014",
+        "organization": {
+            "logoPath": "/img/ffa.png",
+            "name": "Fédération Française Aéronautique",
+            "location": ""
+        }
+    },
+    {
+        "title": "Préventions et Secours Civique de Niveau 1 - PSC1",
+        "date": "Obtained on 12/31/2010",
+        "organization": {
+            "logoPath": "/img/afps.png",
+            "name": "Association Français des Premiers Secours",
+            "location": ""
+        }
+    }
+]

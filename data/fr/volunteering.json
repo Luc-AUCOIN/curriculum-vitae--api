@@ -1,0 +1,18 @@
+[
+    {
+        "duration": "Du 10/10/2017 à aujourd'hui",
+        "title": "Chef scouts / directeur de camp",
+        "descriptions": [
+            "Gestion d'une équipe (5 personnes)",
+            "Gestion de l'intendance et du budget",
+            "S'assurer du bon déroulement du camp",
+            "Formation de jeunes adultes",
+            "Superviser est animer des jeunes entre 8 et 17 ans (30 jeunes)"
+        ],
+        "organization": {
+            "logoPath": "/img/sgdf.png",
+            "name": "Scouts et Guides de France",
+            "location": "France"
+        }
+    }
+]

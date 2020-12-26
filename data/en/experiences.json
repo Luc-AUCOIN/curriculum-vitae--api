@@ -1,0 +1,44 @@
+[
+    {
+        "duration": "From 01/06/2020 to 04/10/2020",
+        "title": "Responsible for the Vigiflux web application and web Full Stack developer (internship):",
+        "descriptions": [
+            "Designed an application in line with customer needs",
+            "Writed the required documentation for its production and maintainability (functional and technical)",
+            "Developed a website with Java EE, Spring Boot, Gradle for the backend and Angular for the frontend",
+            "Implemented of an outsourced configuration system with Consul",
+            "Migrated API to Gradle",
+            "Optimized an existing web application"
+        ],
+        "organization": {
+            "logoPath": "/img/leroy_merlin.png",
+            "name": "Leroy Merlin",
+            "location": "Villeneuve d'Ascq - France"
+        }
+    },
+    {
+        "duration": "From 04/23/2019 to 06/28/2019",
+        "title": "Web Full Stack developer (internship):",
+        "descriptions": [
+            "Developed a Java and Angular tool, which allowed the user to set alerting settings related to supplies flux"
+        ],
+        "organization": {
+            "logoPath": "/img/leroy_merlin.png",
+            "name": "Leroy Merlin",
+            "location": "Villeneuve d'Ascq - France"
+        }
+    },
+    {
+        "duration": "From 09/03/2018 to 10/26/2018",
+        "title": "Software developer (internship):",
+        "descriptions": [
+            "Created a Java tool, which allowed data (order information) to be searched",
+        	"Thanks to the development of a SQL request builder, the Java tool allowed the user to display and extract data"
+        ],
+        "organization": {
+            "logoPath": "/img/cmi.jpg",
+            "name": "Call Management International (CMI)",
+            "location": "Roubaix - France"
+        }
+    }
+]
