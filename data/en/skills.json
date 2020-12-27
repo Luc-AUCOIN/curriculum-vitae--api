@@ -43,6 +43,11 @@
             "controlPercent": 95
         },
         {
+            "name": "Android",
+            "usage": "Internship",
+            "controlPercent": 90
+        },
+        {
             "name": "Symfony (PHP, HTML 5, CSS 3)",
             "usage": "School and scouting",
             "controlPercent": 70

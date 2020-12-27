@@ -33,6 +33,11 @@
             "controlPercent": 100
         },
         {
+            "name": "Android",
+            "usage": "Stage",
+            "controlPercent": 90
+        },
+        {
             "name": "Spring Boot (Kotlin, Java EE)",
             "usage": "Stage",
             "controlPercent": 75

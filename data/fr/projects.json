@@ -1,14 +1,20 @@
 [
     {
-        "name": "Mon curriculum vitae en ligne",
-        "url": "https://luc-aucoin.github.io/my-curriculum-vitae/",
-        "gitHubRepository": "https://github.com/Luc-AUCOIN/curriculum-vitae--front/",
-        "gitLabRepository": "https://gitlab.com/Luc-AUCOIN/curriculum-vitae--front/"
+        "name": "Site web créer pour gérer les flux d'entrées et de sorties (peronnes, véhicules et communications) pour les Scouts et Guides de France",
+        "url": "",
+        "gitLabRepository": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--symfony/",
+        "gitHubRepository": "https://github.com/Luc-AUCOIN/sgdf-registry--symfony/"
     },
     {
-        "name": "Site de formation et de quizz à destination des membres des Scouts et Guides de France",
+        "name": "Mon curriculum vitae en ligne",
+        "url": "https://curriculum-vitae-6e030.web.app/",
+        "gitLabRepository": "https://gitlab.com/Luc-AUCOIN/curriculum-vitae--front/",
+        "gitHubRepository": "https://github.com/Luc-AUCOIN/curriculum-vitae--front/"
+    },
+    {
+        "name": "Site web de formation et de quizz à destination des membres des Scouts et Guides de France",
         "url": "https://formation.natureenvironnement.fr/",
-        "gitHubRepository": "https://github.com/Luc-AUCOIN/formation-natureenvironment--front/",
-        "gitLabRepository": "https://gitlab.com/Luc-AUCOIN/formation-natureenvironment--front/"
+        "gitLabRepository": "https://gitlab.com/Luc-AUCOIN/formation-natureenvironment--front/",
+        "gitHubRepository": "https://github.com/Luc-AUCOIN/formation-natureenvironment--front/"
     }
 ]

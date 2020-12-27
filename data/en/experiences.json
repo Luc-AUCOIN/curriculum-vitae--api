@@ -1,5 +1,19 @@
 [
     {
+        "duration": "Du 07/09/2020 au 22/01/2021",
+        "title": "Full Stack developer in mobility (internship) :",
+        "descriptions": [
+            "Development of mobile applications and their backends (with Kotlin) for employees working in Leroy Merlin stores.",
+            "Teamwork thanks to AGILES methods.",
+            "Deployment in a continuous integration environment."
+        ],
+        "organization": {
+            "logoPath": "/img/leroy_merlin.png",
+            "name": "Leroy Merlin",
+            "location": "Villeneuve d'Ascq - France"
+        }
+    },
+    {
         "duration": "From 01/06/2020 to 04/10/2020",
         "title": "Responsible for the Vigiflux web application and web Full Stack developer (internship):",
         "descriptions": [
