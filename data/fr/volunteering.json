@@ -1,6 +1,22 @@
 [
     {
-        "duration": "Du 10/10/2017 à aujourd'hui",
+        "duration": "Du 01/09/2020 à aujourd'hui",
+        "title": "Chargé de mission",
+        "descriptions": [
+            "Relation avec les partenaires du dispositif DFCI (Défence des Forêts Contre les Incendies)",
+            "Mise en place des missions de protection",
+            "Coordination de mission : protection forêt",
+            "Formation à la mission : protection forêt",
+            "Formation des jeunes adultes à leur mission respective"
+        ],
+        "organization": {
+            "logoPath": "/img/sgdf.png",
+            "name": "Scouts et Guides de France",
+            "location": "France"
+        }
+    },
+    {
+        "duration": "Du 10/10/2017 au 31/08/2020",
         "title": "Chef scouts / directeur de camp",
         "descriptions": [
             "Gestion d'une équipe (5 personnes)",
