@@ -1,0 +1,329 @@
+{
+    "general": {
+        "photo": "/img/photo.png",
+        "firstName": "Luc",
+        "lastName": "Aucoin",
+        "currentPosition": "Student",
+        "email": "luc.aucoin1998@gmail.com",
+        "phone": "+33 (0) 6 77 49 74 84",
+        "languages": [
+            "French (mother tongue)",
+            "English (intermediate - B2)"
+        ],
+        "address": "22 rue Georges Brassens",
+        "city": "59290 Wasquehal",
+        "country": "France",
+        "locationUrl": "https://www.google.com/maps/place/22+Rue+Georges+Brassens,+59290+Wasquehal/@50.6867821,3.1158058,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47c32970892a8be3:0xfe590db377766cb6!2s22+Rue+Georges+Brassens,+59290+Wasquehal!3b1!8m2!3d50.6867821!4d3.1179945!3m4!1s0x47c32970892a8be3:0xfe590db377766cb6!8m2!3d50.6867821!4d3.1179945"
+    },
+    "links": [
+        {
+            "link": "https://gitlab.com/Luc-AUCOIN",
+            "image": "/img/gitlab.svg"
+        },
+        {
+            "link": "https://github.com/Luc-AUCOIN",
+            "image": "/img/github.svg"
+        },
+        {
+            "link": "https://www.linkedin.com/in/luc-aucoin/",
+            "image": "/img/linkedin.svg"
+        }
+    ],
+    "data": {
+        "professionalExperiences": [
+            {
+                "dates": "From 09/07/2020 to 01/22/2021",
+                "title": "Full Stack developer in mobility (internship) :",
+                "descriptions": [
+                    "Development of mobile applications and their backends (with Kotlin) for employees working in Leroy Merlin stores.",
+                    "Teamwork thanks to AGILES methods.",
+                    "Deployment in a continuous integration environment."
+                ],
+                "company": {
+                    "logo": "/img/leroy_merlin.svg",
+                    "name": "Leroy Merlin",
+                    "location": "Villeneuve d'Ascq - France"
+                }
+            },
+            {
+                "dates": "From 01/06/2020 to 04/10/2020",
+                "title": "Responsible for the Vigiflux web application and web Full Stack developer (internship):",
+                "descriptions": [
+                    "Designed an application in line with customer needs",
+                    "Writed the required documentation for its production and maintainability (functional and technical)",
+                    "Developed a website with Java EE, Spring Boot, Gradle for the backend and Angular for the frontend",
+                    "Implemented of an outsourced configuration system with Consul",
+                    "Migrated API to Gradle",
+                    "Optimized an existing web application"
+                ],
+                "company": {
+                    "logo": "/img/leroy_merlin.svg",
+                    "name": "Leroy Merlin",
+                    "location": "Villeneuve d'Ascq - France"
+                }
+            },
+            {
+                "dates": "From 04/23/2019 to 06/28/2019",
+                "title": "Web Full Stack developer (internship):",
+                "descriptions": [
+                    "Developed a Java and Angular tool, which allowed the user to set alerting settings related to supplies flux"
+                ],
+                "company": {
+                    "logo": "/img/leroy_merlin.svg",
+                    "name": "Leroy Merlin",
+                    "location": "Villeneuve d'Ascq - France"
+                }
+            },
+            {
+                "dates": "From 09/03/2018 to 10/26/2018",
+                "title": "Software developer (internship):",
+                "descriptions": [
+                    "Created a Java tool, which allowed data (order information) to be searched",
+                    "Thanks to the development of a SQL request builder, the Java tool allowed the user to display and extract data"
+                ],
+                "company": {
+                    "logo": "/img/cmi.jpg",
+                    "name": "Call Management International (CMI)",
+                    "location": "Roubaix - France"
+                }
+            }
+        ],
+        "education": [
+            {
+                "dates": "Graduation forecast in 2022",
+                "degree": "Engineer specialized in IT development",
+                "description": "4th year student, at Cesi engineering school for a Master degree",
+                "company": {
+                    "logo": "/img/cesi.svg",
+                    "name": "Cesi école d'ingénieurs",
+                    "location": "Lille - France"
+                }
+            },
+            {
+                "dates": "Obtained in 2016",
+                "degree": "Scientific baccalaureate, engineering sciences, computer science and digital sciences",
+                "description": "",
+                "company": {
+                    "logo": "/img/ozanam.png",
+                    "name": "Lycée Frédéric OZANAM",
+                    "location": "Lille - France"
+                }
+            }
+        ],
+        "skills": {
+            "management": [
+                {
+                    "name": "Team animation",
+                    "usage": "Scouting",
+                    "level": 85
+                },
+                {
+                    "name": "Crisis management",
+                    "usage": "Scouting",
+                    "level": 95
+                },
+                {
+                    "name": "Budget",
+                    "usage": "Scouting",
+                    "level": 90
+                },
+                {
+                    "name": "Administrative follow",
+                    "usage": "Scouting",
+                    "level": 100
+                },
+                {
+                    "name": "Communication",
+                    "usage": "Internship, school and scouting",
+                    "level": 90
+                }
+            ],
+            "technical": [
+                {
+                    "name": "Hardware (Configuration et montage de PC)",
+                    "usage": "Personal",
+                    "level": 100
+                },
+                {
+                    "name": "Spring Boot (Kotlin, Java EE)",
+                    "usage": "Internship",
+                    "level": 85
+                },
+                {
+                    "name": "Angular (TypeScript, HTML 5, CSS 3)",
+                    "usage": "Internship, school and scouting",
+                    "level": 95
+                },
+                {
+                    "name": "Android",
+                    "usage": "Internship",
+                    "level": 90
+                },
+                {
+                    "name": "Symfony (PHP, HTML 5, CSS 3)",
+                    "usage": "School and scouting",
+                    "level": 70
+                },
+                {
+                    "name": "Git (GitHub, GitLab)",
+                    "usage": "Internship, school, scouting and personal",
+                    "level": 95
+                },
+                {
+                    "name": "Arduino (C)",
+                    "usage": "School and personal",
+                    "level": 65
+                },
+                {
+                    "name": "Continious Integration / Continious Delivery (CI/CD)",
+                    "usage": "Internship",
+                    "level": 50
+                },
+                {
+                    "name": "Consul",
+                    "usage": "Internship",
+                    "level": 70
+                },
+                {
+                    "name": "Gradle (Kotlin, Java EE, Java SE)",
+                    "usage": "Internship",
+                    "level": 95
+                },
+                {
+                    "name": "Maven (Java EE, Java SE)",
+                    "usage": "Internship and school",
+                    "level": 75
+                },
+                {
+                    "name": "SQL (Merise, MySQL, PostgreSQL, etc.)",
+                    "usage": "Internship, school, scouting and personal",
+                    "level": 85
+                }
+            ]
+        },
+        "certifications": [
+            {
+                "dates": "Obtained in 04/2019 and expires in 04/2022",
+                "title": "CCNA 2 - Routing and Switching Essentials",
+                "company": {
+                    "logo": "/img/cisco.svg",
+                    "name": "Cisco",
+                    "location": ""
+                }
+            },
+            {
+                "dates": "Obtained on 01/04/2019",
+                "title": "Brevet d'Aptitudes aux Fonctions d'Animateur - BAFA",
+                "company": {
+                    "logo": "/img/fr.svg",
+                    "name": "Direction Régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS)",
+                    "location": ""
+                }
+            },
+            {
+                "dates": "Obtained on 03/2019 and expires in 04/2024",
+                "title": "Certificat d'aptitude aux fonctions de directeur du Scoutisme Français",
+                "company": {
+                    "logo": "/img/sf.svg",
+                    "name": "Fédération du Scoutisme Français",
+                    "location": ""
+                }
+            },
+            {
+                "dates": "Obtained in 01/2018 and expires in 01/2021",
+                "title": "CCNA 1 - Introduction to Networks",
+                "company": {
+                    "logo": "/img/cisco.svg",
+                    "name": "Cisco",
+                    "location": ""
+                }
+            },
+            {
+                "dates": "Obtained on 11/21/2017",
+                "title": "Certificat d'aptitudes aux fonctions d'animateur du Scoutisme Français",
+                "company": {
+                    "logo": "/img/sf.svg",
+                    "name": "Fédération du Scoutisme Français",
+                    "location": ""
+                }
+            },
+            {
+                "dates": "Obtained in 2014",
+                "title": "Brevet d'Initiation à l'Aéronautique - BIA",
+                "company": {
+                    "logo": "/img/ffa.png",
+                    "name": "Fédération Française Aéronautique",
+                    "location": ""
+                }
+            },
+            {
+                "dates": "Obtained on 12/31/2010",
+                "title": "Préventions et Secours Civique de Niveau 1 - PSC1",
+                "company": {
+                    "logo": "/img/afps.png",
+                    "name": "Association Français des Premiers Secours",
+                    "location": ""
+                }
+            }
+        ],
+        "volunteerExperiences": [
+            {
+                "dates": "From 10/10/2017 to today",
+                "title": "Scout leader / Scouts Reception Director",
+                "descriptions": [
+                    "Relationship with DFCI (Defense of Forests Against Fires)",
+                    "Implementation of protection missions",
+                    "Mission coordination: forest protection",
+                    "Training for the mission: forest protection",
+                    "Training of young adults in their respective missions"
+                ],
+                "company": {
+                    "logo": "/img/sgdf.svg",
+                    "name": "Scouts et Guides de France",
+                    "location": "France"
+                }
+            },
+            {
+                "dates": "From 10/10/2017 to today",
+                "title": "Scout leader / Scouts Reception Director",
+                "descriptions": [
+                    "Managed a team (5 persons)",
+                    "Stewardship and budget management",
+                    "Ensure the smooth running of the camp",
+                    "Training of young adults",
+                    "Supervising and animating young people between 8 and 17 years old (30 young people)"
+                ],
+                "company": {
+                    "logo": "/img/sgdf.svg",
+                    "name": "Scouts et Guides de France",
+                    "location": "France"
+                }
+            }
+        ],
+        "project": [
+            {
+                "name": "Website created to manage inputs and outputs flux (people, vehicles and communications) dedicated to \"Scouts et Guides de France\"",
+                "availabilityUrl": "",
+                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--symfony/",
+                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--symfony/"
+            },
+            {
+                "name": "My online CV",
+                "availabilityUrl": "https://curriculum-vitae-6e030.web.app/",
+                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/curriculum-vitae--front/",
+                "gitHubUrl": "https://github.com/Luc-AUCOIN/curriculum-vitae--front/"
+            },
+            {
+                "name": "Formation and quiz site dedicated to \"Scouts et Guides de France\" members",
+                "availabilityUrl": "https://formation.natureenvironnement.fr/",
+                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-formation--front/",
+                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-formation--front/"
+            }
+        ]
+    },
+    "mailer": {
+        "service": "service_s263upg",
+        "template": "template_rpo5sve",
+        "user": "user_20anYvUbtENfosqv2Jmgg"
+    }
+}
