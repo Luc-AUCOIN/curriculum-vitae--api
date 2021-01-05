@@ -300,7 +300,7 @@
                 }
             }
         ],
-        "project": [
+        "projects": [
             {
                 "name": "Website created to manage inputs and outputs flux (people, vehicles and communications) dedicated to \"Scouts et Guides de France\"",
                 "availabilityUrl": "",
