@@ -302,10 +302,16 @@
         ],
         "projects": [
             {
-                "name": "Site web créer pour gérer les flux d'entrées et de sorties (peronnes, véhicules et communications) pour les Scouts et Guides de France",
+                "name": "Backend créé pour gérer les flux d'entrées et de sorties (peronnes, véhicules et communications) pour les Scouts et Guides de France",
                 "availabilityUrl": "",
-                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--symfony/",
-                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--symfony/"
+                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--backend/",
+                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--backend/"
+            },
+            {
+                "name": "Frontend créé pour gérer les flux d'entrées et de sorties (peronnes, véhicules et communications) pour les Scouts et Guides de France",
+                "availabilityUrl": "",
+                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--frontend/",
+                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--frontend/"
             },
             {
                 "name": "Mon curriculum vitae en ligne",
