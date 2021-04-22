@@ -50,10 +50,10 @@
                 "title": "Responsable de l'application web Vigiflux et développeur Full Stack (stage) :",
                 "descriptions": [
                     "Conception d'une application en adéquation avec les besoins du client",
-                    "Rédaction des documentations nécessaire à sa réalisation et à sa maintenabilité (fonctionnelle et technique)",
+                    "Rédaction des documentations nécessaires à sa réalisation et à sa maintenabilité (fonctionnelle et technique)",
                     "Développement d'un site web avec Java EE, Spring Boot, Gradle pour le backend et Angular pour le frontend",
-                    "Mise en place des d'un système de configuration externalisée avec Consul",
-                    "Migration d'API existantes vers Gradle",
+                    "Mise en place des d'un système de configuration externalisé avec Consul",
+                    "Migration d'APIs existantes vers Gradle",
                     "Optimisation d'une application web existante"
                 ],
                 "company": {
@@ -78,8 +78,8 @@
                 "dates": "Du 03/09 au 26/10/2018",
                 "title": "Développeur logiciel (stage) :",
                 "descriptions": [
-                    "Création d’un outil développé en Java permettant la recherche et l’export de donnée (informations sur des commandes)",
-                    "Rechercher les données grâce au développement d’un constructeur de requête SQL"
+                    "Création d’un outil développé en Java permettant la recherche et l’export de données (informations sur des commandes)",
+                    "Rechercher les données grâce au développement d’un constructeur de requêtes SQL"
                 ],
                 "company": {
                     "logo": "/img/cmi.jpg",
@@ -230,15 +230,6 @@
                 }
             },
             {
-                "dates": "Obtenu en 01/2018 et expire en 01/2021",
-                "title": "CCNA 1 - Introduction to Networks",
-                "company": {
-                    "logo": "/img/cisco.svg",
-                    "name": "Cisco",
-                    "location": ""
-                }
-            },
-            {
                 "dates": "Obtenu le 21/11/2017",
                 "title": "Certificat d'aptitudes aux fonctions d'animateur du Scoutisme Français",
                 "company": {
@@ -261,7 +252,7 @@
                 "title": "Préventions et Secours Civique de Niveau 1 - PSC1",
                 "company": {
                     "logo": "/img/afps.png",
-                    "name": "Association Français des Premiers Secours",
+                    "name": "Association Française des Premiers Secours",
                     "location": ""
                 }
             }
@@ -291,7 +282,7 @@
                     "Gestion de l'intendance et du budget",
                     "S'assurer du bon déroulement du camp",
                     "Formation de jeunes adultes",
-                    "Superviser est animer des jeunes entre 8 et 17 ans (30 jeunes)"
+                    "Superviser et animer des jeunes entre 8 et 17 ans (30 jeunes)"
                 ],
                 "company": {
                     "logo": "/img/sgdf.svg",
@@ -303,13 +294,13 @@
         "projects": [
             {
                 "name": "Backend créé pour gérer les flux d'entrées et de sorties (peronnes, véhicules et communications) pour les Scouts et Guides de France",
-                "availabilityUrl": "",
+                "availabilityUrl": "https://ne.vicainne.fr/",
                 "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--backend/",
                 "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--backend/"
             },
             {
                 "name": "Frontend créé pour gérer les flux d'entrées et de sorties (peronnes, véhicules et communications) pour les Scouts et Guides de France",
-                "availabilityUrl": "",
+                "availabilityUrl": "https://ne.vicainne.fr/",
                 "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--frontend/",
                 "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--frontend/"
             },
