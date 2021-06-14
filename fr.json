@@ -294,27 +294,23 @@
         "projects": [
             {
                 "name": "Backend créé pour gérer les flux d'entrées et de sorties (peronnes, véhicules et communications) pour les Scouts et Guides de France",
-                "availabilityUrl": "https://ne.vicainne.fr/",
-                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--backend/",
-                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--backend/"
+                "availabilityUrl": "https://registry.natenv.ovh/",
+                "gitLabUrl": "https://gitlab.com/sgdf-ne/registry--backend/"
             },
             {
                 "name": "Frontend créé pour gérer les flux d'entrées et de sorties (peronnes, véhicules et communications) pour les Scouts et Guides de France",
-                "availabilityUrl": "https://ne.vicainne.fr/",
-                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--frontend/",
-                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--frontend/"
+                "availabilityUrl": "https://registry.natenv.ovh/",
+                "gitLabUrl": "https://gitlab.com/sgdf-ne/registry--frontend/"
             },
             {
                 "name": "Mon curriculum vitae en ligne",
                 "availabilityUrl": "https://curriculum-vitae-6e030.web.app/",
-                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/curriculum-vitae--front/",
-                "gitHubUrl": "https://github.com/Luc-AUCOIN/curriculum-vitae--front/"
+                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/curriculum-vitae--front/"
             },
             {
                 "name": "Site web de formation et de quizz à destination des membres des Scouts et Guides de France",
                 "availabilityUrl": "https://formation.natureenvironnement.fr/",
-                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-formation--front/",
-                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-formation--front/"
+                "gitLabUrl": "https://gitlab.com/sgdf-ne/formation--front/"
             }
         ]
     },

@@ -302,22 +302,24 @@
         ],
         "projects": [
             {
-                "name": "Website created to manage inputs and outputs flux (people, vehicles and communications) dedicated to \"Scouts et Guides de France\"",
-                "availabilityUrl": "",
-                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-registry--symfony/",
-                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-registry--symfony/"
+                "name": "Backend created to manage entry and exit flows (people, vehicles and communications) for the Scouts et Guides de France",
+                "availabilityUrl": "https://registry.natenv.ovh/",
+                "gitLabUrl": "https://gitlab.com/sgdf-ne/registry--backend/"
+            },
+            {
+                "name": "Frontend created to manage entry and exit flows (people, vehicles and communications) for the Scouts et Guides de France",
+                "availabilityUrl": "https://registry.natenv.ovh/",
+                "gitLabUrl": "https://gitlab.com/sgdf-ne/registry--frontend/"
             },
             {
                 "name": "My online CV",
                 "availabilityUrl": "https://curriculum-vitae-6e030.web.app/",
-                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/curriculum-vitae--front/",
-                "gitHubUrl": "https://github.com/Luc-AUCOIN/curriculum-vitae--front/"
+                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/curriculum-vitae--front/"
             },
             {
                 "name": "Formation and quiz site dedicated to \"Scouts et Guides de France\" members",
                 "availabilityUrl": "https://formation.natureenvironnement.fr/",
-                "gitHubUrl": "https://github.com/Luc-AUCOIN/sgdf-formation--front/",
-                "gitLabUrl": "https://gitlab.com/Luc-AUCOIN/sgdf-formation--front/"
+                "gitLabUrl": "https://gitlab.com/sgdf-ne/formation--front/"
             }
         ]
     },
